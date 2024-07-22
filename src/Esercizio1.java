@@ -11,7 +11,7 @@ public class Esercizio1 {
         String[] vecchioArray = {"uno", "due", "tre", "quattro", "cinque"};
         String nuovaStringa = "Esercizio1";
         String[] nuovoArray = inserisciInArray(vecchioArray, nuovaStringa);
-        for (int i = 1; i < nuovoArray.length; i++) {
+        for (int i = 0; i < nuovoArray.length; i++) {
             System.out.println(nuovoArray[i]);
         }
 
