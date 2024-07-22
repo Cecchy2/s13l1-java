@@ -5,11 +5,11 @@ public class Esercizio3 {
         System.out.println(result);
 
         int parioDispari = pariDispari(4);
-        System.out.println(parioDispari);
+        System.out.println("0 è pari - 1 è dispari " + parioDispari);
 
-        System.out.println(pariDispari(9));
+        System.out.println("0 è pari - 1 è dispari " + pariDispari(9));
 
-        System.out.println(perimetroTriangolo(25.10, 30, 12.3));
+        System.out.println("Il perimetro del triangolo è : " + perimetroTriangolo(25.10, 30, 12.3));
 
 
     }
