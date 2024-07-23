@@ -29,7 +29,7 @@ public class Esercizio3 {
         }
     }
 
-    //Metodo per calcolare lárea del Triangolo (formula di Erone)
+    //Metodo per calcolare l` area del Triangolo (formula di Erone)
     public static double perimetroTriangolo(double triang1, double triang2, double triang3) {
         double semiPerimetro = ((triang1 + triang2 + triang3) / 2);
 
